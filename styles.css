@@ -1,0 +1,43 @@
+.kalam-light {
+  font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.kalam-regular {
+  font-family: "Kalam", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kalam-bold {
+  font-family: "Kalam", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.abtme {
+    width: 200px;
+    border: 2px solid #f20089;
+    border-radius: 10px;
+}
+#Projects {
+    padding: 0 40px;
+    color: #e4d9ff;
+   
+}
+
+body {
+    margin: 30px;
+    font-family: kalam-regular, sans-serif;
+    background: #1e2749;
+    color: #6bbaec;
+}
+
+footer {
+    color: black;
+} 
+
+.underline {
+    border-bottom: 2px solid #2d00f7;
+}
